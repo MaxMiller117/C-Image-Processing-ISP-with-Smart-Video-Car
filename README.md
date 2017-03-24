@@ -23,3 +23,6 @@ Run using "./motor"
 
 PwmLed.c "/home/pi/Sunfounder_SuperKit_C_code_for_RaspberryPi/04_PwmLed/PwmLed.c"
 This is a test file for using pwm to drive the servos. It currently does not work but checks all ports for servos. The program seems to crash on ports 1, 23, 24, and 26.
+
+ssh pi@(ip)
+pass: ncf17!
